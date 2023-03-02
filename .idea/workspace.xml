@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7df97ad1-21b0-4ecc-8010-7f745a152352" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionalprogramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp01/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp01/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp01/Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp02/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp02/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp02/Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp03/FPBehaviourParameterizationDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp03/FPBehaviourParameterizationExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp03/FPMethodReferencesDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp03/FunctionalInterfacesDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp04/FP04CustomClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp04/data/Course.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MMszPbtndMDG9AxFEGfe4Se4QG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.fp04.FP04CustomClassDemo">
+    <configuration name="FP04CustomClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fp04.data.FP04CustomClassDemo" />
+      <module name="functionalprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp04.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FPBehaviourParameterizationExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fp03.FPBehaviourParameterizationExercise01" />
+      <module name="functionalprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FPMethodReferencesDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fp03.FPMethodReferencesDemo01" />
+      <module name="functionalprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfacesDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fp03.FunctionalInterfacesDemo01" />
+      <module name="functionalprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fp04.FP04CustomClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fp04.FP04CustomClassDemo" />
+      <module name="functionalprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.fp04.FP04CustomClassDemo" />
+        <item itemvalue="Application.FP04CustomClassDemo" />
+        <item itemvalue="Application.FunctionalInterfacesDemo01" />
+        <item itemvalue="Application.FPMethodReferencesDemo01" />
+        <item itemvalue="Application.FPBehaviourParameterizationExercise01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7df97ad1-21b0-4ecc-8010-7f745a152352" name="Changes" comment="" />
+      <created>1677589049738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677589049738</updated>
+      <workItem from="1677589050805" duration="14111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
